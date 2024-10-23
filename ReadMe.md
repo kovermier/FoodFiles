@@ -107,7 +107,7 @@ The application uses:
 
 ## License
 
-This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
+This project is licensed under the MIT License - see the [License](LICENSE) file for details.
 
 Copyright (c) 2024 SmartBrandStrategies.com - Kurt Overmier
 
