@@ -27,7 +27,7 @@ The application is intentionally structured as a single module to showcase CSS i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/foodfiles.git
+git clone https://github.com/kovermier/FoodFiles.git
 cd foodfiles
 ```
 
